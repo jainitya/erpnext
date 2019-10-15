@@ -1,3 +1,5 @@
+from __future__ import unicode_literals
+
 data = {
 	'desktop_icons': [
 		'Patient',
@@ -5,6 +7,9 @@ data = {
 		'Patient Encounter',
 		'Lab Test',
 		'Healthcare',
+		'Vital Signs',
+		'Clinical Procedure',
+		'Inpatient Record',
 		'Accounts',
 		'Buying',
 		'Stock',
